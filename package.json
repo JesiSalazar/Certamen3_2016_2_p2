@@ -1,0 +1,19 @@
+{
+  "name": "cert3",
+  "version": "1.0.0",
+  "description": "certamen3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JesiSalazar/Certamen3_2016_2_p2.git"
+  },
+  "author": "jesi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JesiSalazar/Certamen3_2016_2_p2/issues"
+  },
+  "homepage": "https://github.com/JesiSalazar/Certamen3_2016_2_p2#readme"
+}
